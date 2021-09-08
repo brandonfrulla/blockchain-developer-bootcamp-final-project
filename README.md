@@ -1,7 +1,5 @@
 # mortgage-dao
 
-# mortgage-dao
-
 As of right now, the name of this repo pretty effectively shows what my plans are for a final project.
 I understand that a major component of DAOs is community building and governance, etc- but I'm moreso focused
 on building the proof-of-concept for this idea than anything else. As long as I build something that is 
